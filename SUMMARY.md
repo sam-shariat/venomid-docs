@@ -14,7 +14,7 @@
 * [Setting Up Venom ID Link](guides/setting-up-venom-id-link.md)
 * [Sharing your link](guides/sharing-your-link.md)
 
-## 👨‍💻 Developer Docs
+## Developer Docs
 
 * [➡️ Overview](developer-docs/overview.md)
 * [📦 Examples](developer-docs/examples.md)
