@@ -3,12 +3,12 @@ description: >-
   Venom ID is a decentralized platform built on top of a domain naming system
   based on the Venom blockchain that allows users to showcase their virtual
   assets in a single customizable web address.
-cover: .gitbook/assets/Twitter.png
+cover: .gitbook/assets/venomid-guides.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Introduction
+# 👋 Introduction
 
 ## Project Overview
 
@@ -39,16 +39,14 @@ Venom ID caters to a broad range of individuals and businesses, including conten
 
 The vision of Venom ID is to revolutionize the management and showcasing of virtual assets by providing a decentralized platform that fosters transparency, user control, and seamless integration across various asset types. Venom ID aims to become the go-to platform for individuals and businesses to curate and present their digital presence to the world.
 
-
+{% content-ref url="overview/main-features.md" %}
+[main-features.md](overview/main-features.md)
+{% endcontent-ref %}
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We are putting together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="guides/setting-up-a-wallet.md" %}
 [setting-up-a-wallet.md](guides/setting-up-a-wallet.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/domain-registration.md" %}
-[domain-registration.md](guides/domain-registration.md)
 {% endcontent-ref %}

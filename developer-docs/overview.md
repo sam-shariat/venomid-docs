@@ -22,3 +22,9 @@ VID is currently deployed on the **Venom Testnet Blockchain**
 {% hint style="info" %}
 You can try VID out for yourself now by using the [Venom ID Platform](https://venomid.network)
 {% endhint %}
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
+
+If you want to jump right in, check out our code Examples

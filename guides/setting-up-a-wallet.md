@@ -2,7 +2,7 @@
 description: On Venom ID Mainnet, we currently support Venom Wallet and OneArt Wallet.
 ---
 
-# Setting up a wallet
+# 👝 Setting up a wallet
 
 ## Installation <a href="#what-is-a-metamask-wallet" id="what-is-a-metamask-wallet"></a>
 

@@ -1,8 +1,19 @@
-# Main Features
+---
+description: >-
+  The primary objective of Venom ID is to empower users by offering them a
+  decentralized platform with customizable profiles to showcase their virtual
+  assets.
+---
+
+# 🎨 Main Features
 
 ## Decentralized
 
 Venom ID is built on the Venom blockchain, which is a decentralized and scalable blockchain platform. This means that users can be confident that their data is safe and secure.
+
+## Domain Naming System
+
+Venom ID offers a DNS ( domain naming system ) on the venom blockchain. This allows users to create a human-readable name for their Venom Address, which makes it easier to remember and share.
 
 ## Customizable
 
@@ -11,10 +22,6 @@ Users can customize their Venom ID page to match their individual style and need
 ## Unified Links
 
 Venom ID provides users with a single, unified link that they can share with others. This link will take people to the user's Venom ID page, where they can see all of their virtual assets in one place.
-
-## Naming Service
-
-Venom ID offers a naming service on the venom blockchain. This allows users to create a human-readable name for their Venom Address, which makes it easier to remember and share.
 
 ## Blockchain Identity
 
