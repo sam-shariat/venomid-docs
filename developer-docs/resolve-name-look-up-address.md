@@ -50,7 +50,7 @@ const targetAddress = await lookupAddress(provider,"sam.vid");
 
 **Live on CodeSandbox :**&#x20;
 
-{% embed url="https://codesandbox.io/p/devbox/venom-id-lookup-address-v95v7c" %}
+{% embed url="https://codesandbox.io/p/devbox/venom-id-lookup-address-v95v7c?embed=1&file=/src/App.jsx" %}
 
 {% hint style="info" %}
 **if you don't want to install the `vid-sdk` package, you can ignore and use the direct way explained below**
