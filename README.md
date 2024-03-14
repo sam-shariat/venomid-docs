@@ -39,8 +39,14 @@ Venom ID caters to a broad range of individuals and businesses, including conten
 
 The vision of Venom ID is to revolutionize the management and showcasing of virtual assets by providing a decentralized platform that fosters transparency, user control, and seamless integration across various asset types. Venom ID aims to become the go-to platform for individuals and businesses to curate and present their digital presence to the world.
 
+
+
 {% content-ref url="overview/main-features.md" %}
 [main-features.md](overview/main-features.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/roadmap.md" %}
+[roadmap.md](overview/roadmap.md)
 {% endcontent-ref %}
 
 ## Get Started
