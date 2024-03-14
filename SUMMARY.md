@@ -24,3 +24,8 @@
 * [🔄 List Names](developer-docs/list-names.md)
 * [Primary Name](developer-docs/primary-name.md)
 * [Records](developer-docs/records.md)
+
+## Token & Governance
+
+* [🪙 Tokenomics](token-and-governance/tokenomics.md)
+* [🏛️ DAO](token-and-governance/dao.md)

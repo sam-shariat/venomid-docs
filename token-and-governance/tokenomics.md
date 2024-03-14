@@ -1,0 +1,3 @@
+# 🪙 Tokenomics
+
+soon
