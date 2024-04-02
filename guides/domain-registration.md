@@ -1,4 +1,4 @@
-# Domain Registration
+# 📝 Domain Registration
 
 Registering a domain on the Venom ID website is a simple task, requiring just a few clicks to accomplish.\
 
@@ -19,7 +19,7 @@ On the top right of Venom ID website, You can see the "Connect Venom" Button. Si
 
 On the page in front of you, enter the desired domain name to check Its availability. If the domain hasn't been registered by anyone previously, you'll see a message "available" as shown in the image below. Now, click on the "Register" button.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 1403-01-10 at 12.44.28.png" alt="Venom ID Domain"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 1403-01-15 at 01.00.57.png" alt="Venom ID Domain"><figcaption></figcaption></figure>
 
 ## Registration
 
@@ -29,7 +29,7 @@ On the page in front of you, enter the desired domain name to check Its availabi
 
 By clicking register button, you’ll be asked to confirm the transaction in your Venom wallet.
 
-<figure><img src="../.gitbook/assets/Venom Domian Registration waiting 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Venom ID transaction confirm.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: please wait a few moments for the transaction to be confirmed on the blockchain.
@@ -38,3 +38,5 @@ Note: please wait a few moments for the transaction to be confirmed on the block
 ## Done
 
 Congrats! Your domain has now been registered successfully. Now it’s time to set a target wallet address for your registered domain.
+
+<figure><img src="../.gitbook/assets/Venom ID domain register successfully.png" alt=""><figcaption></figcaption></figure>

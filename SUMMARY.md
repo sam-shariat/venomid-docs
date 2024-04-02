@@ -10,7 +10,7 @@
 
 * [📖 Overview](guides/overview.md)
 * [👝 Setting up a wallet](guides/setting-up-a-wallet.md)
-* [Domain Registration](guides/domain-registration.md)
+* [📝 Domain Registration](guides/domain-registration.md)
 * [Setting Target Address](guides/setting-target-address.md)
 * [Setting Up Venom ID Link](guides/setting-up-venom-id-link.md)
 * [Sharing your link](guides/sharing-your-link.md)
