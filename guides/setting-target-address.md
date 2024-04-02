@@ -34,5 +34,6 @@ On the page displayed for you, as shown in the image below, in the section indic
 
 \
 Done
+----
 
 Congratulations, you have successfully completed this task.\
