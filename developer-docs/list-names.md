@@ -3,7 +3,7 @@
 using the example below, you can retrieve all the names a venom account address owns.
 
 {% hint style="info" %}
-`0:4bc6...3765` ➡️ `sam.vid, samydo.vid, samshariat.vid`
+`0:4bc6...3765` ➡️ `sam.venom, samydo.venom, ...`
 {% endhint %}
 
 ```typescript
@@ -38,7 +38,7 @@ async function lookupNames(
       const nftContract = new provider.Contract(nftAbi, indexAddress);
       const getJsonAnswer = (await nftContract.methods.getJson({ answerId: 0 } as never).call()) as { json: string };
       const _nftJson = JSON.parse(getJsonAnswer.json ?? "{}") as BaseNftJson;
-      if (address === _nftJson.target) {
+      if (address === _nftJson.target) { // we check if the name has already set their target address, you can remove this if you want to get all names
         return String(_nftJson.name);
       } else {
         return '';
