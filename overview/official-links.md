@@ -8,19 +8,23 @@ description: >-
 
 ## Venom ID Website
 
-[https://venomid.network/](https://venomid.network/)&#x20;
+{% embed url="https://venomid.network/" %}
+
+## Github
+
+{% embed url="https://github.com/venomid-network/venomid-contracts" %}
 
 ## VenomScan
 
-[https://venomscan.com/accounts/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408](https://venomscan.com/accounts/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408)
+{% embed url="https://venomscan.com/accounts/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408" %}
 
 ## Oasis Gallery Marketplace
 
-[https://oasis.gallery/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408](https://oasis.gallery/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408)
+{% embed url="https://oasis.gallery/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408" %}
 
 ## VenomArt Marketplace
 
-[https://venomart.io/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408](https://venomart.io/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408)&#x20;
+{% embed url="https://venomart.io/collection/0:2b353a0c36c4c86a48b0392c69017a109c8941066ed1747708fc63b1ac79e408" %}
 
 ## Twitter
 
@@ -36,15 +40,15 @@ description: >-
 
 ## LinkedIn
 
-[https://linkedin.com/company/venom-id](https://linkedin.com/company/venom-id)
+{% embed url="https://linkedin.com/company/venom-id" %}
 
 ## Youtube
 
-[https://youtube.com/@venomid\_network](https://youtube.com/@venomid\_network)
+{% embed url="https://youtube.com/@venomid_network" %}
 
 ## Medium
 
-[https://medium.com/@venomidapp](https://medium.com/@venomidapp)
+{% embed url="https://medium.com/@venomidapp" %}
 
 ## Grinding
 
