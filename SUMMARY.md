@@ -23,6 +23,7 @@
 * [📝 Getting Started](developer-docs/getting-started.md)
 * [🎯 Resolve Name ( Look Up Address )](developer-docs/resolve-name-look-up-address.md)
 * [🔄 List Names](developer-docs/list-names.md)
+* [🌐 REST API](developer-docs/rest-api.md)
 * [Primary Name](developer-docs/primary-name.md)
 * [Records](developer-docs/records.md)
 
