@@ -6,6 +6,7 @@
 * [🎨 Main Features](overview/main-features.md)
 * [🛣️ RoadMap](overview/roadmap.md)
 * [🔗 Official Links](overview/official-links.md)
+* [💲 Pricing Table](overview/pricing-table.md)
 
 ## Guides
 
